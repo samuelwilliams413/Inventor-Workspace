@@ -1,8 +1,8 @@
-2 - Attachment_Double.stl
-4 - Attachment_Single.stl
-4 - Cable_Guide.stl
-20 - Lower_Loadcell_Mount.stl
-20 - Mount_Brace.stl
-28 - Mount_Panel.stl
-6 - Sensor_Mount.stl
-6 - Upper_Loadcell_Mount.stl
+2 - Attachment_Double		60 min 	79714
+4 - Attachment_Single		43 min 	79720
+4 - Cable_Guide 			18 min 	79726
+24 - Lower_Loadcell_Mount	20 min 	79732 / 79762
+6 - Mount_Brace 			23 min 	79738
+6 - Mount_Panel 			59 min 	79744
+28 - Sensor_Mount   		10 min 	79750
+24 - Upper_Loadcell_Mount 	27 min 	79756 / 79768
