@@ -1,0 +1,8 @@
+2 - Attachment_Double.stl
+4 - Attachment_Single.stl
+4 - Cable_Guide.stl
+20 - Lower_Loadcell_Mount.stl
+20 - Mount_Brace.stl
+28 - Mount_Panel.stl
+6 - Sensor_Mount.stl
+6 - Upper_Loadcell_Mount.stl
